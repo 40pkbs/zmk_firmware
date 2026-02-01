@@ -1,0 +1,6 @@
+if SHIELD_COLM40
+
+config ZMK_KEYBOARD_NAME
+    default "colm40"
+
+endif # SHIELD_COLM40
